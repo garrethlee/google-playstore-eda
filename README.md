@@ -1,5 +1,5 @@
 # Google Play Store Exploratory Data Analysis
-*An Exploratory Data Analysis of the Google Play Store Applications*
+*An Exploratory Data Analysis of apps in the Google Play Store from the year 2010-2020*
 
 The Google Play Store plays host to 2.3 million apps, all with different purposes and user bases. While some apps will never see the light of day, others have been thriving and sitting atop the throne for years. With mountains of data at our disposal, an opportunity arises to clean, visualize, and extract meaningful insights from the millions of rows that are available to us.
 
